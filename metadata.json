@@ -1,0 +1,7 @@
+{
+  "name": "Celestial Voyager: Blue Saturn",
+  "description": "An interactive 3D celestial visualization featuring a procedurally generated blue planet with a glowing accretion disk and spiral particles, powered by Three.js and Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
